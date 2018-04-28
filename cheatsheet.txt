@@ -1,0 +1,42 @@
+GIT:
+- Clone a repository (project)
+$ git clone
+
+- Stage a file to commit
+$ git add
+
+- Commit staged file(s)
+$ git commit -m "<commit-message>"
+
+- Push changes (committed files) to repository
+$ git push
+
+- Pull changes from repository to local project
+$ git pull
+
+VIM:
+
+
+UBUNTU BASH:
+- Open a file from terminal using vim
+$ vim <file-name>
+
+- Change directory
+$ cd
+
+- Show files and directories in current path
+$ ls
+
+- Clear screen
+$ clear
+
+- Exit terminal
+$ exit
+
+- Kill process
+$ <CTRL> C
+
+C:
+
+LISP:
+
