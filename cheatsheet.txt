@@ -16,6 +16,12 @@ $ git push
 - Pull changes from repository to local project
 $ git pull
 
+- Show changes made in a specific commit
+$ git show <commit-hash>
+
+- Show changes between local and origin respository
+$ git diff
+
 =======
 | VIM |
 =======
