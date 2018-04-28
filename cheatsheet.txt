@@ -1,4 +1,6 @@
-GIT:
+========
+|  GIT |
+========
 - Clone a repository (project)
 $ git clone
 
@@ -14,10 +16,39 @@ $ git push
 - Pull changes from repository to local project
 $ git pull
 
-VIM:
+=======
+| VIM |
+=======
+NOTE: most Vim commands can be sequentially applied
+
+- Write a file
+$ :w
+
+- Quit a file
+$ :q
+
+- Enter Insert mode
+$ i
 
 
-UBUNTU BASH:
+- Exit Insert mode
+$ ESC
+
+- Move up
+$ k
+
+- Move down
+$ j
+
+- Move right
+$ l
+
+- Move left
+$ h
+
+===============
+| UBUNTU BASH |
+===============
 - Open a file from terminal using vim
 $ vim <file-name>
 
@@ -36,7 +67,20 @@ $ exit
 - Kill process
 $ <CTRL> C
 
-C:
+- Make a directory
+$ mkdir <directory-name>
 
-LISP:
+- Remove a file
+$ rm <file-name>
 
+- Remove a directory
+$ rm -rd <directory-name>
+
+
+=====
+| C |
+=====
+
+========
+| LISP |
+========
