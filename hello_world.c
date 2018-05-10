@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 int main(int argc, char** argv) {
-	puts("Nasi Goreng Bami Satet!");
-	return 0;
+  for (int i = 0; i < 5; i++) {
+    puts("Hello World!");
+  }
 }
 
