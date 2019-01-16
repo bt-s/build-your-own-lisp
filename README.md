@@ -1,3 +1,1 @@
-This is a programming project by Zina and Bas.
-
-During this project we are going to build our own Lisp.
+This is a programming project in which I build my own Lisp called Skippy.
